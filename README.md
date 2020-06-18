@@ -1,0 +1,2 @@
+# stoersender
+Nur langsam dringt ans Licht, womit sich Nachrichtendienste seit über 20 Jahren beschäftigen: dem Abhören von Computermonitoren. Jeder Monitor strahlt seine Bildinformationen mehrere hundert Meter weit ab. Ein gefundenes Fressen für Datenpiraten! Welcher Funkfreund kennt nicht die vielen Funk storsender, die von Computern verursacht werden. Oft sind es über hundert Frequenzen (die im Bereich zwischen 30 und 150 MHz meist sehr ungestört empfangen werden können), auf denen sich ein Computer mit seltsam klingenden Signalen im Empfänger meldet.
